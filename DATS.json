@@ -137,6 +137,14 @@
         }
       ]
     },
+	{
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.png"
+        }
+      ]
+    },
     {
       "category": "contact",
       "values": [
