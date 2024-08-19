@@ -13,6 +13,11 @@
     }
   ],
   "types": [
+		{
+		"information": {
+			"value": "Exome sequencing",
+			"valueIRI": "http://uri.interlex.org/ilx_0779559"
+		},
     {
       "information": {
         "value": "FASTQ files"
