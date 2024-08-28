@@ -159,6 +159,14 @@
         }
       ]
     },
+ {
+      "category": "registrationPage",
+      "values": [
+        {
+          "value": "https://cbigr-open.loris.ca/login/request-account/"
+        }
+      ]
+    },
     {
       "category": "contact",
       "values": [
